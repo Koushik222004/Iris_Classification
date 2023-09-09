@@ -30,9 +30,7 @@ The model achieves [X% accuracy] on the test dataset, demonstrating its ability 
 
 Contributions are welcome! If you have suggestions for improvements, additional features, or alternative machine learning models, please open an issue or create a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
